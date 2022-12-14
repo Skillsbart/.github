@@ -1,4 +1,4 @@
-... image here ...
+![Le Grow BootCamp](https://github.com/Le-BootCamp-Grow/.github/blob/master/Cover_GitHub.png)
 
 Le BootCamp Grow is the GitHub base of the Grow by Aisely developer bootcamp. Grow by Aisely is a French-speaking startup building the leading developer bootcamp and resources platform for francophones.
 

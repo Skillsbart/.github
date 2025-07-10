@@ -183,12 +183,14 @@ We're building the future of education and work. If you believe in our mission:
 <!-- - [`skillsbart-mobile`](https://github.com/skillsbart/skillsbart-mobile) - React Native mobile apps -->
 
 ### 🤖 **AI & Machine Learning**
-- [`skillsbart-ai`](https://github.com/skillsbart/skillsbart-ai) - Custom Skills Intelligence Model training
-- [`skill-verification-api`](https://github.com/skillsbart/skill-verification-api) - FastAPI service for skill validation
-- [`matching-engine`](https://github.com/skillsbart/matching-engine) - ML-powered matching algorithms
-- [`data-pipeline`](https://github.com/skillsbart/data-pipeline) - ETL pipelines for model training data
+> Coming soon
+<!-- - [`skillsbart-ai`](https://github.com/skillsbart/skillsbart-ai) - Custom Skills Intelligence Model training -->
+<!-- - [`skill-verification-api`](https://github.com/skillsbart/skill-verification-api) - FastAPI service for skill validation -->
+<!-- - [`matching-engine`](https://github.com/skillsbart/matching-engine) - ML-powered matching algorithms -->
+<!-- - [`data-pipeline`](https://github.com/skillsbart/data-pipeline) - ETL pipelines for model training data -->
 
-<!-- ### 🛠️ **Tools & Infrastructure** -->
+### 🛠️ **Tools & Infrastructure**
+> Coming soon
 <!-- - [`skillsbart-cli`](https://github.com/skillsbart/skillsbart-cli) - Developer tools and utilities -->
 <!-- - [`deployment-configs`](https://github.com/skillsbart/deployment-configs) - Infrastructure as code -->
 <!-- - [`design-system`](https://github.com/skillsbart/design-system) - UI components and guidelines -->
